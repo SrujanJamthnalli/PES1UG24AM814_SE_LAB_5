@@ -1,4 +1,6 @@
 # Lab 5: Static Code Analysis - Reflection
+Author: Srujan Kumar J (SRN: PES1UG24AM814), Section F  
+Date: 2025-10-30
 
 ## 1. Which issues were the easiest to fix, and which were the hardest? Why?
 
